@@ -1,0 +1,8 @@
+# Configuration for webhooks
+webhook_url: "https://canary.discord.com/api/webhooks/1234567891234567809/exampleEXAMPLE3x4mp13_exampleEXAMPLE3x4mp13_exampleEXAMPLE3x4mp13_exampleEXAMPLE3x4mp13"
+# Syntax for administration:
+# %server% - server of bungee that player is on
+# %player% - just nick of player lol
+# %msg% - message that player is sending
+# pssst. You can use colors here
+syntax: "&4&lHELPOP &8&l[%server%] &8%player%&7: %msg%"
