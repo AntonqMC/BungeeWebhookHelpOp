@@ -5,3 +5,5 @@
 **REMEMBED THAT THOSE PERMISSIONS ARE FOR BUNGEE**
 - *antonq.helpop* - Sending helpop messages
 - *antonq.helpop.read* - permission for administration to view messages
+# `Jar:`
+- You can find jar in target folder
